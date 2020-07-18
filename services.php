@@ -154,7 +154,7 @@
 
 	<?php
 $conn = new mysqli("localhost","root","","suwasetha medical associates");
-// Check connection
+// Check the connection
 if($conn){
 		echo 'connected';
 	}
